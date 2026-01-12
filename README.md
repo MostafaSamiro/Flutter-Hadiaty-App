@@ -78,7 +78,7 @@ Business-ready mobile solutions
 
 ## 📸 Screenshots
 
-Explore the ZOOR app with these screenshots:
+Explore the Hadiaty app with these screenshots:
 
 ![Screenshot 42](42.jpg)
 ![Screenshot 34](43.jpg)
