@@ -75,6 +75,3 @@ UI/UX optimized for real users
 
 Business-ready mobile solutions
 
-
-App ShowCase
-
