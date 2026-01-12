@@ -3,7 +3,7 @@
 Hadiaty is a modern Flutter application designed to simplify event planning and gift coordination.
 It allows users to create events, share wish lists, and let friends and family pledge gifts — eliminating duplicate purchases and improving communication.
 
-🚀 What This App Solves
+What This App Solves
 
 When organizing birthdays, weddings, or special occasions, people often:
 
@@ -15,7 +15,7 @@ Have no clear way to coordinate
 
 Hadiaty fixes this by creating a social, real-time gift planning system.
 
-✨ Key Features
+Key Features
 
 Event Creation & Management
 Users can create and manage multiple personal events.
@@ -32,7 +32,7 @@ All updates are instantly reflected for all users using Firestore.
 Clean & Modern UI
 Designed for fast navigation and a smooth user experience.
 
-🧠 Business Value
+Business Value
 
 Hadiaty turns event planning into a collaborative and organized experience.
 It reduces confusion, prevents duplicate gifts, and makes celebrations more meaningful.
@@ -61,7 +61,7 @@ Real-time Database Architecture
 
 Clean UI Design
 
-📌 What This Project Demonstrates
+What This Project Demonstrates
 
 This app showcases my ability to build:
 
@@ -74,3 +74,7 @@ Clean and scalable Flutter architecture
 UI/UX optimized for real users
 
 Business-ready mobile solutions
+
+
+App ShowCase
+
