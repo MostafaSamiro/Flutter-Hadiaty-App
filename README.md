@@ -75,3 +75,13 @@ UI/UX optimized for real users
 
 Business-ready mobile solutions
 
+
+## 📸 Screenshots
+
+Explore the ZOOR app with these screenshots:
+
+![Screenshot 42](42.jpg)
+![Screenshot 34](43.jpg)
+
+
+
