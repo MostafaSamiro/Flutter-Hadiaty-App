@@ -1,0 +1,9 @@
+  // Future<void> _logout() async {
+  //   SharedPreferences prefs = await SharedPreferences.getInstance();
+  //   await prefs.setBool('isLoggedIn', false);  // Set the login state to false
+  //
+  //   await FirebaseAuth.instance.signOut();  // Sign the user out from Firebase
+  //
+  //   // After signing out, navigate back to login screen
+  //   Navigator.pushReplacementNamed(context, 'welcome');
+  // }

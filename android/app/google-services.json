@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083199629960",
+    "project_id": "holidate-adc06",
+    "storage_bucket": "holidate-adc06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083199629960:android:ef339b83e7a1b193f20d3d",
+        "android_client_info": {
+          "package_name": "com.example.holidate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUwMmmsV573usyCWyg96LpvXpjtorKqeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
