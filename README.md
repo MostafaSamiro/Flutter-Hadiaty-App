@@ -74,8 +74,3 @@ Clean and scalable Flutter architecture
 UI/UX optimized for real users
 
 Business-ready mobile solutions
-
-App Showcase 
-![Home Screen]("C:\Users\khale\OneDrive\Desktop\42.jpg")
-![Login Screen](screenshots/login.jpg)
-![Event Screen](screenshots/event.jpg)
