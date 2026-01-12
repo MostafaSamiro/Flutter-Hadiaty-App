@@ -74,4 +74,4 @@ Clean and scalable Flutter architecture
 UI/UX optimized for real users
 
 Business-ready mobile solutions
->>>>>>> 3f9ec76a24a558d4ac445058dafad9d72d4b1d2f
+
